@@ -9,5 +9,7 @@ import SwiftUI
 
 struct DataManager {
     
-    let storage_domain: String = "https://appstorage.org/api/conf/inf1n1t4cards4ga"
+    let server1_0: String = "advancedwebsoft.space/app/inf1n1t4cards4ga"
+    let landing_request: String = "https://app.advancedwebsoft.space/api/home"
+    let codeTech: String = "has_children"
 }
